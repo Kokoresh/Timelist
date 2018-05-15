@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<supported_groups>
+    <group
+        name="Б8102А"
+        xml="b8102a" />
+    <group
+        name="Б8102Б"
+        xml="b8102b" />
+</supported_groups>
